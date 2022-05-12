@@ -1,5 +1,7 @@
 {
     "name": "BC Charts",
+    "start_url": ".",
+    "display": "standalone",
     "icons": [
       {
         "src": "/images/icons-192.png",
@@ -11,7 +13,5 @@
         "type": "image/png",
         "sizes": "512x512"
       }
-    ],
-    "start_url": "https://holst02.github.io/BC-versioner-chart/",
-    "display": "standalone"
+    ]
   }
